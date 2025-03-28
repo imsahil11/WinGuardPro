@@ -37,7 +37,7 @@ WinGuard Pro is an all-in-one security solution designed to:
 
 ## 🚀 Quick Start Guide
 
-1. 📥 Download `securityAnalyzer.bat`
+1. 📥 Download `WinGuardPro.bat`
 2. 🖱️ Right-click and select "Run as administrator"
 3. 📋 Choose options from the menu (1-21)
 4. 👀 Follow on-screen instructions
