@@ -52,8 +52,8 @@ Reports are saved in:
 
 This tool requires administrator privileges to run properly. 
 
-## Contributers
+## Contributors
 
-1.  latika
+1.  Latika
 2.  Pankaj Kumar
    
