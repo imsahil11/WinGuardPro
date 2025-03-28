@@ -51,3 +51,8 @@ Reports are saved in:
 ## Note
 
 This tool requires administrator privileges to run properly. 
+
+## Contributers
+
+1. latika(12304576)
+   
