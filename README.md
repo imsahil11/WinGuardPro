@@ -54,5 +54,5 @@ This tool requires administrator privileges to run properly.
 
 ## Contributers
 
-1. # latika(12304576)
+1.  latika
    
